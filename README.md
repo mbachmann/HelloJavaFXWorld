@@ -10,10 +10,10 @@ With the ever-improving security of MacOS, checks on downloaded and runnable sof
 
 This guide runs you through the process of how to get this all sorted so that you aren’t going to see the following error messages.
 
-<figure>
-<img src="readme/app-damaged.png" height="400" alt="">
-<img src="readme/app-malicious.png" height="400" alt="">
-</figure>
+<p float="left">
+<img src="readme/app-damaged.png" height="350" width="280" alt="">
+<img src="readme/app-malicious.png" height="350" width="280" alt="">
+</p>
 
 ---
 
