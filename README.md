@@ -22,7 +22,7 @@ This guide runs you through the process of how to get this all sorted so that yo
 
 ## ✅ Prerequisites
 
-- **IntelliJ IDEA (or your preferred IDE)  
+- **IntelliJ IDEA** (or your preferred IDE)  
   https://www.jetbrains.com/idea/download/?section=mac
 
 - **Azul Zulu JDK with JavaFX**  
@@ -35,6 +35,8 @@ This guide runs you through the process of how to get this all sorted so that yo
   https://appleid.apple.com/account/manage
 
 ---
+
+<br/>
 
 ## ✅ Setup Apple Developer Credentials
 
