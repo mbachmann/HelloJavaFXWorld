@@ -45,13 +45,13 @@ However, make sure the necessary intermediate certificats are installed in your 
 
 If not available, you can download it from here:
 
-- **Download Intermediates**
+- **Download Intermediates**  
   https://www.apple.com/certificateauthority/
 
-- **Overview of Certificates** 
+- **Overview of Certificates**   
   https://developer.apple.com/support/certificates/
 
-- **Explaning the Types of Intermediates (G2, G3, ...), we need G3**
+- **Explaning the Types of Intermediates (G2, G3, ...), we need G3**  
   https://developer.apple.com/help/account/certificates/wwdr-intermediate-certificates/
 
   
