@@ -22,7 +22,6 @@ public class HelloApplication extends Application {
 			}, "hard-exit").start();
 		});
 
-
 		var url = HelloApplication.class.getResource("hello-view.fxml");
 		System.out.println("FXML URL = " + url);
 
@@ -45,7 +44,6 @@ public class HelloApplication extends Application {
 		if (splash != null) {
 			splash.close();
 		}
-
 	}
 
 	public static void main(String[] args) {
